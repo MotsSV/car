@@ -1,5 +1,5 @@
 body {
-	background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(register.jpg);
+	background: linear-gradient(rgba(0,0,0,.3),rgba(0,0,0,.3)), url(vivid-blurred-colorful-background_58702-2655 (1).jpg);
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-attachment: fixed;
@@ -69,3 +69,4 @@ body {
 .form a:hover {
 	color: #0fc3f5;
 }
+
